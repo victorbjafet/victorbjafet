@@ -4,9 +4,20 @@ I occasionally try to take on personal projects (that always die due to lack of 
 
 Check out my pinned repos! They're the projects I'm most proud of.
 
-You can reach me at victorbjafet@gmail.com.
-
 Thanks for stopping by!
+
+Current projects I'm focusing on:
+- Sigmath backend (in-class project, private for now)
+- API based scrapers/watchers
+  - https://github.com/victorbjafet/satWatch
+  - https://github.com/victorbjafet/naviance_snipe
+  - planning to possibly make some for checking when college decisions release? might be fun
+- Science Olympiad Robot Tour and Electric Vehicle
+
+
+victorbjafet@gmail.com
+
+(Last updated 11/4/2024)
 
 <!--
 **victorbjafet/victorbjafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

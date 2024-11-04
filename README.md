@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi! I'm Victor, a student passionate about CS/EE/CE.
+I occasionally try to take on personal projects (that always die due to lack of free time), but whatever I do I usually put here!
+Check out my pinned repos! They're the projects I'm most proud of.
+You can reach me at victorbjafet@gmail.com.
+Thanks for stopping by!
 
 <!--
 **victorbjafet/victorbjafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

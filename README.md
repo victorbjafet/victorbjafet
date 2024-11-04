@@ -1,4 +1,4 @@
-Hi! I'm Victor, a student passionate about CS/EE/CE.
+Hi! I'm Victor, a highschool class of 2025 student passionate about CS/EE/CE.
 
 I occasionally try to take on personal projects (that always die due to lack of free time), but whatever I do I usually put here!
 

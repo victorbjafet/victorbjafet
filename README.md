@@ -12,6 +12,7 @@ Current projects I'm focusing on:
   - https://github.com/victorbjafet/satWatch
   - https://github.com/victorbjafet/naviance_snipe
   - planning to possibly make some for checking when college decisions release? might be fun
+  - also one for grabbing class slots that would be a fun challenge
 - Science Olympiad Robot Tour and Electric Vehicle
 
 

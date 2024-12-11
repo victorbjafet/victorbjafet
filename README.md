@@ -15,10 +15,13 @@ Current projects I'm focusing on:
   - also one for grabbing class slots that would be a fun challenge
 - Science Olympiad Robot Tour and Electric Vehicle
 
+Project plans:
+- Improved ease of use attendance checker (gotta put what I already made here though)
+
 
 victorbjafet@gmail.com
 
-(Last updated 11/4/2024)
+(Last updated 12/11/2024)
 
 <!--
 **victorbjafet/victorbjafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

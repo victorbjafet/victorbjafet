@@ -1,27 +1,22 @@
 Hi! I'm Victor, a highschool class of 2025 student passionate about CS/EE/CE.
 
-I occasionally try to take on personal projects (that always die due to lack of free time), but whatever I do I usually put here!
+I occasionally try to take on random personal projects (that tend to die due to lack of free time), but whatever I do I usually put on GitHub!
 
 Check out my pinned repos! They're the projects I'm most proud of.
 
 Thanks for stopping by!
 
 Current projects I'm focusing on:
-- Sigmath backend (in-class project, private for now)
-- API based scrapers/watchers
-  - https://github.com/victorbjafet/satWatch
-  - https://github.com/victorbjafet/naviance_snipe
-  - planning to possibly make some for checking when college decisions release? might be fun
-  - also one for grabbing class slots that would be a fun challenge
-- Science Olympiad Robot Tour and Electric Vehicle
+- [Data Architecture class](https://github.com/victorbjafet/data_architecture)
+- Science Olympiad Robot Tour and Electric Vehicle (private)
 
 Project plans:
-- Improved ease of use attendance checker (gotta put what I already made here though)
+- Improved ease of use Skyward attendance checker
 
 
 victorbjafet@gmail.com
 
-(Last updated 12/11/2024)
+(Last updated 04/15/2025)
 
 <!--
 **victorbjafet/victorbjafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-Hi! I'm Victor, a highschool class of 2025 student passionate about CS/EE/CE.
+Hi! I'm Victor, a highschool class of 2025 student passionate about CS/EE/CE (Virginia Tech bound!).
 
 I occasionally try to take on random personal projects (that tend to die due to lack of free time), but whatever I do I usually put on GitHub!
 

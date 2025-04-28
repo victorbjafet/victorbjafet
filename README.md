@@ -1,4 +1,4 @@
-Hi! I'm Victor, a highschool class of 2025 student passionate about CS/EE/CE (Virginia Tech bound!).
+Hi! I'm Victor, a highschool class of 2025 student passionate about CS/EE/CE (Virginia Tech class of 2029 bound!).
 
 I occasionally try to take on random personal projects (that tend to die due to lack of free time), but whatever I do I usually put on GitHub!
 
@@ -8,10 +8,10 @@ Thanks for stopping by!
 
 Current projects I'm focusing on:
 - [Data Architecture class](https://github.com/victorbjafet/data_architecture)
-- Science Olympiad Robot Tour and Electric Vehicle (private)
+- [Improved ease of use Skyward attendance checker](https://github.com/victorbjafet/absences)
 
 Project plans:
-- Improved ease of use Skyward attendance checker
+- Wiimote Emulation over bluetooth on an ESP32? (very ambitious, but summer is almost here and my three ESP32s are on the way :3)
 
 
 victorbjafet@gmail.com

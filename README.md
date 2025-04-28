@@ -12,7 +12,7 @@ Current projects I'm focusing on:
 
 Project plans:
 - Fix the broken answer functionality in the edpuzzle-answers bookmarklet ([my very terrible and underprepared first attempt](https://github.com/victorbjafet/edpuzzle-answers))
-- Wiimote Emulation over bluetooth on an ESP32? (very ambitious, but summer is almost here and my three ESP32s are on the way :3) (upon [further investigation](https://chatgpt.com/share/680f3d27-e998-800e-b116-d6cd8855c7af), this seems REALLY ambitious and I may be looking into a Pi Zero –which I've been meaning to get my hands on for a while now– if I'm really gonna do this... 😅)
+- Wiimote Emulation over bluetooth on an ESP32? (very ambitious, but summer is almost here and my three ESP32s are on the way :3) (upon [further investigation](https://chatgpt.com/share/680f3d27-e998-800e-b116-d6cd8855c7af), this seems REALLY ambitious and I may be looking into a Pi Zero–which I've been meaning to get my hands on for a while now–if I'm really gonna do this... 😅)
 
 
 victorbjafet@gmail.com

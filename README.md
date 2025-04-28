@@ -11,6 +11,7 @@ Current projects I'm focusing on:
 - [Improved ease of use Skyward attendance checker](https://github.com/victorbjafet/absences)
 
 Project plans:
+- Fix the broken answer functionality in the edpuzzle-answers bookmarklet ([my very terrible and underprepared first attempt](https://github.com/victorbjafet/edpuzzle-answers))
 - Wiimote Emulation over bluetooth on an ESP32? (very ambitious, but summer is almost here and my three ESP32s are on the way :3)
 
 

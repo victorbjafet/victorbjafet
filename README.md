@@ -8,16 +8,18 @@ Thanks for stopping by!
 
 Current projects I'm focusing on:
 - Homelabbing setup (on standby)
+- Getting Canvas assignments into Notion automatically (slow progress 🫩)
 
 Project plans:
 - Wherever VT takes me :)
+- Frith Lab solo practice project for ENGE 1414
 
 
 victorbjafet@gmail.com
 
 https://www.linkedin.com/in/victorbjafet
 
-(Last updated 08/21/2025)
+(Last updated 09/08/2025)
 
 <!--
 **victorbjafet/victorbjafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

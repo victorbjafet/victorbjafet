@@ -7,12 +7,12 @@ Check out my pinned repos! They're the projects I'm most proud of.
 Thanks for stopping by!
 
 Current projects I'm focusing on:
+- ENGE 1414 remote dorm security system
 - Homelabbing setup (on standby)
 - Getting Canvas assignments into Notion automatically (slow progress 🫩)
 
 Project plans:
 - Wherever VT takes me :)
-- Frith Lab solo practice project for ENGE 1414
 
 
 victorbjafet@gmail.com

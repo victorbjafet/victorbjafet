@@ -1,4 +1,4 @@
-Hi! I'm Victor, a Virginia Tech class of 2029 student passionate about CS/EE/CE.
+Hi! I'm Victor, a Virginia Tech class of 2029 student passionate about EE/CE/CS.
 
 I occasionally try to take on random personal projects, and whatever I do, I usually put on GitHub!
 
@@ -6,20 +6,22 @@ Check out my pinned repos! They're the projects I'm most proud of.
 
 Thanks for stopping by!
 
-Current projects I'm focusing on:
-- ENGE 1414 remote dorm security system
-- Homelabbing setup (on standby)
-- Getting Canvas assignments into Notion automatically (slow progress 🫩)
+**Current projects I'm focusing on:**
+- Improved ground-up recreation of VT [Blacksburg Transit](https://ridebt.org) website/app
+- Open-source, class-sniping version of VT [CoursePickle](https://coursepickle.com)
+- Canvas assignments -> Notion pipeline + auto calendar/time management planner
 
-Project plans:
-- Wherever VT takes me :)
+
+**Project plans:**
+- Proxmox homelabbing setup (perpetual and slow progress)
+- Geometry Dash automatic botting tool + mathematical difficulty measurement
 
 
 victorbjafet@gmail.com
 
 https://www.linkedin.com/in/victorbjafet
 
-(Last updated 10/20/2025)
+(Last updated 03/30/2026)
 
 <!--
 **victorbjafet/victorbjafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

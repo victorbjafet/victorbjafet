@@ -7,7 +7,7 @@ Check out my pinned repos! They're the projects I'm most proud of.
 Thanks for stopping by!
 
 **Current projects I'm focusing on:**
-- Improved ground-up recreation of VT [Blacksburg Transit](https://ridebt.org) website/app
+- [BetterBT](https://betterbt.vbjfr.xyz/routes): Improved ground-up recreation of VT [Blacksburg Transit](https://ridebt.org) website/app
 - Open-source, class-sniping version of VT [CoursePickle](https://coursepickle.com)
 - Canvas assignments -> Notion pipeline + auto calendar/time management planner
 

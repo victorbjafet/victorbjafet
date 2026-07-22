@@ -8,20 +8,18 @@ Thanks for stopping by!
 
 **Current projects I'm focusing on:**
 - [BetterBT](https://betterbt.vbjfr.xyz/routes): Improved ground-up recreation of VT [Blacksburg Transit](https://ridebt.org) website/app
-- Open-source, class-sniping version of VT [CoursePickle](https://coursepickle.com)
+- Proxmox homelabbing setup (Jellyfin, Servarr stack, NAS)
 - Canvas assignments -> Notion pipeline + auto calendar/time management planner
 
-
 **Project plans:**
-- Proxmox homelabbing setup (perpetual and slow progress)
-- Geometry Dash automatic botting tool + mathematical difficulty measurement
-
+- DIY Pioneer FLX4 AIO module (screen, computer, battery)
+- Apple CarPlay MITM Proxy (aux port support for Mazda CX50 + customization)
 
 victorbjafet@gmail.com
 
 https://www.linkedin.com/in/victorbjafet
 
-(Last updated 03/30/2026)
+(Last updated 07/22/2026)
 
 <!--
 **victorbjafet/victorbjafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

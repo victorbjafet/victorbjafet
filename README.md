@@ -1,4 +1,4 @@
-Hi! I'm Victor, a Virginia Tech class of 2029 student passionate about EE/CE/CS.
+Hi! I'm Victor, a Virginia Tech class of 2029 student passionate about EE/CPE/CS.
 
 I occasionally try to take on random personal projects, and whatever I do, I usually put on GitHub!
 

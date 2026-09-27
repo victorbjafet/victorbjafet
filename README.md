@@ -8,18 +8,20 @@ Thanks for stopping by!
 
 **Current projects I'm focusing on:**
 - [BetterBT](https://betterbt.vbjfr.xyz/routes): Improved ground-up recreation of VT [Blacksburg Transit](https://ridebt.org) website/app
+- [WebYak](https://github.com/victorbjafet/webyak): Unofficial web version of [YikYak](https://yikyak.com) website/app
 - Proxmox homelabbing setup (Jellyfin, Servarr stack, NAS)
 - Canvas assignments -> Notion pipeline + auto calendar/time management planner
+- DIY Pioneer FLX4 AIO module (screen, computer, battery) (proof of concept created and working during VTHacks 14)
 
 **Project plans:**
-- DIY Pioneer FLX4 AIO module (screen, computer, battery)
+- Portfolio website (well overdue)
 - Apple CarPlay MITM Proxy (aux port support for Mazda CX50 + customization)
 
 victorbjafet@gmail.com
 
 https://www.linkedin.com/in/victorbjafet
 
-(Last updated 07/23/2026)
+(Last updated 09/27/2026)
 
 <!--
 **victorbjafet/victorbjafet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

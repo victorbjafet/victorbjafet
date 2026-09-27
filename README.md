@@ -8,7 +8,7 @@ Thanks for stopping by!
 
 **Current projects I'm focusing on:**
 - [BetterBT](https://betterbt.vbjfr.xyz/routes): Improved ground-up recreation of VT [Blacksburg Transit](https://ridebt.org) website/app
-- [WebYak](https://github.com/victorbjafet/webyak): Unofficial web version of [YikYak](https://yikyak.com) website/app
+- [WebYak](https://github.com/victorbjafet/webyak): Unofficial and feature-rich web version of [YikYak](https://yikyak.com) website/app
 - Proxmox homelabbing setup (Jellyfin, Servarr stack, NAS)
 - Canvas assignments -> Notion pipeline + auto calendar/time management planner
 - DIY Pioneer FLX4 AIO module (screen, computer, battery) (proof of concept created and working during VTHacks 14)
